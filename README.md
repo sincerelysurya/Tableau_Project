@@ -1,6 +1,7 @@
 ![](https://github.com/sincerelysurya/Tableau_Project/blob/main/MiniProjectIII_Dashboard_gundu1r.png)
 
 Tableau Project Showcase
+
 Welcome to my Tableau project, where I present a dynamic dashboard encapsulating 5 years of comprehensive financial data, including earnings, revenue, and profit percentages. This isn't just about numbers; it's an intuitive tool designed for stakeholders, highlighting my proficiency in simplifying complexity to provide accessible financial insights.
 
 Explore the Dashboard
